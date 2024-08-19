@@ -1,0 +1,14 @@
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\bin\Debug\net8.0\SınavNotuHesaplama.exe
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\bin\Debug\net8.0\SınavNotuHesaplama.deps.json
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\bin\Debug\net8.0\SınavNotuHesaplama.runtimeconfig.json
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\bin\Debug\net8.0\SınavNotuHesaplama.dll
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\bin\Debug\net8.0\SınavNotuHesaplama.pdb
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.AssemblyInfo.cs
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.dll
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\refint\SınavNotuHesaplama.dll
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.pdb
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\SınavNotuHesaplama.genruntimeconfig.cache
+C:\Users\Hüseyin Dönmez\source\repos\SınavNotuHesaplama\SınavNotuHesaplama\obj\Debug\net8.0\ref\SınavNotuHesaplama.dll
